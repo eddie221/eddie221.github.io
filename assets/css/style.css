@@ -548,6 +548,11 @@ section {
   margin-bottom: 10px;
 }
 
+.resume .resume-item i {
+  font-size: 24px;
+  vertical-align: middle;
+}
+
 .resume .resume-item ul {
   padding-left: 20px;
 }
